@@ -1,3 +1,3 @@
  # JavaScript-based-design
 It is JavaScript based web design. Like Diwali Rockets.
- * For demo available here http://bit.ly/2dQykc7
+ * #### If you want to see the demo of this project, the *`demo`* [available here](https://sharan-aithal.github.io/JavaScript-based-design/index.html)
